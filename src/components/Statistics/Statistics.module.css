@@ -1,0 +1,13 @@
+.statisticContainer {
+    max-width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #33c4ac;
+    box-shadow: 0px 4px 10px rgba(139, 139, 139, 0.5);
+  }
+  
+  .statistic {
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 10px;
+  }
